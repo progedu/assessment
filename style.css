@@ -1,26 +1,76 @@
 body{
   text-align: center;
-  background-color: #4d639f;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: ghostwhite;
+  margin:0;
 }
 
-
-.usui{
-  color: rgb(247, 252, 252);
+.headee{
+  padding-left: 50px;
+  vertical-align: top;
+  text-align: left;
+  color: grey;
+}
+header {
+  width: 100%;
+  padding: 15px 0;
+  margin: 0 auto;
+  text-align: center;
 }
 
+.midasi{
+  width: auto;
+  height: 40px;
+  background-color: darkgray;
+  vertical-align: middle;
 
-.text{
+  
+}
+
+table{
+
   margin-left: auto;
   margin-right: auto;
-  border: solid 1px rgb(156, 151, 151);
-  margin-top: 30px;
-  margin-bottom: 50px;
-  max-width: 400px;
-  background: rgba(0, 0, 0, 0.2);
+  display: inline;
+  text-align: center;
+ 
 }
 
-.adding{
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  color: rgb(247, 252, 252);
+.syoukai{
+  width: 500px;
+  text-align: center;
+  margin: auto;
+  padding: auto;
+  border: solid 1px #333;
+  margin-bottom: 50px;
+}
+
+.min{
+  margin-left: 30px;
+  margin-right: auto;
+  width: 200px;
+  border-left: solid 5px #333;
+  border-bottom: solid 1px #333;
+  font-weight: bold;
+}
+
+.moji{
+  line-height: 5;
+}
+
+.moji2{
+  line-height: 7;
+}
+
+.jiko{
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+}
+
+footer{
+  width: 100%;
+  height: 60px;
+  text-align: center;
+  padding: 50px 0;
+  background-color: sienna;
 }
