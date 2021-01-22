@@ -1,0 +1,26 @@
+body{
+  text-align: center;
+  background-color: #4d639f;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.usui{
+  color: rgb(247, 252, 252);
+}
+
+
+.text{
+  margin-left: auto;
+  margin-right: auto;
+  border: solid 1px rgb(156, 151, 151);
+  margin-top: 30px;
+  margin-bottom: 50px;
+  max-width: 400px;
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.adding{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(247, 252, 252);
+}
